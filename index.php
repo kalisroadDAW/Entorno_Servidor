@@ -7,10 +7,10 @@
 
 <body>
 	<?php
-	
-	print "Hasta luego desarrollador!!!"
-	
+
+	print "Hasta luego, esto ha sido genial!!!"
+
 	?>
-	
+
 </body>
 </html>
